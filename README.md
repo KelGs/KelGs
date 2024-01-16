@@ -1,38 +1,52 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
+<div>
+ <img align="left" width="180px" src="https://github.com/KelGs/KelGs/assets/113996184/c920b7fa-d46c-45da-88fd-416bb6b2fe76" />
+ <img align="right" width="80px" src="https://github.com/KelGs/KelGs/assets/113996184/56c2d435-dc2f-4eaf-8812-8828b9a67b70" />
+ <h1 align="center">Olá, player.</h1>
+ <p>
+  Eu sou o <strong>Kelvyn Gonçalves</strong>, desenvolvedor web front-end, entusiasta da tecnologia. <br>
+  Atualmente possuo 24 anos, estou em processo de aprendizagem na área de tecnologia no que se tange o desenvolvimento web.<br>
+  Comecei como um mero curioso no mundo da programação e acabei criando gosto pela área, pois como um bom jogador de RPG é sempre bom ter novos desafios! haha.
+ </p>
 
-<p align="center">Olá, eu me chamo Kelvyn Gonçalves. <br> Desenvolvedor WEB Fron End.</p>&nbsp;
+<div align="left">
+ <h1> <img width="40px" src="https://github.com/KelGs/KelGs/assets/113996184/75e0f50f-a273-48b4-b815-d3f2991e6e78"/>&nbsp; Minhas habilidades: </h1>
 
- &nbsp;
- &nbsp;
+ <h3>Tecnologias:</h3>
 
-## Minhas habilidades:
+ <img width="40px" src="https://github.com/KelGs/KelGs/assets/113996184/37e561dc-148f-4eb6-8cc2-f96619791070" />&nbsp;&nbsp;&nbsp;&nbsp;
+ <img width="40px" src="https://github.com/KelGs/KelGs/assets/113996184/4f0beedb-1313-4a64-af3f-2807fe4ea055" />&nbsp;&nbsp;&nbsp;&nbsp;
+ <img width="40px" src="https://github.com/KelGs/KelGs/assets/113996184/5be65cd1-6b61-4e76-b2c9-f138219f0b76" />&nbsp;&nbsp;&nbsp;&nbsp;
+ <img width="40px" src="https://github.com/KelGs/KelGs/assets/113996184/0b3bb3dc-84ca-4d6f-a2aa-ded35d80fc53" />&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Principais:
+ <h3>Em aprendizagem:</h3>
+ <img width="40px" src="https://github.com/KelGs/KelGs/assets/113996184/f4aac766-649e-4a72-94c6-cbf29675198d" />
 
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+ <h3>Ferranentas:</h3>
+ <img width="40px" src="https://github.com/KelGs/KelGs/assets/113996184/34553f63-a2a4-44c0-85b0-9d8b433c5a9c" />&nbsp;&nbsp;&nbsp;&nbsp;
+ <img width="40px" src="https://github.com/KelGs/KelGs/assets/113996184/c1538bc2-ab48-4735-9504-9da6bfa00b94" />&nbsp;&nbsp;&nbsp;&nbsp;
+ <img width="40px" src="https://github.com/KelGs/KelGs/assets/113996184/7ccda340-bc2a-4f0c-bcfc-4bbaad723669" />&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+<br>
+ <div>
+ <h2> <img align="left" width="40px" src="https://github.com/KelGs/KelGs/assets/113996184/d8b899cd-e3aa-4ece-a569-d78ab5d22ad3" /> Formação:</h2> 
 
-#### Estudando no momento:
+ <h3><img align="left" width="30px" src="https://github.com/KelGs/KelGs/assets/113996184/81e51262-033b-40a9-a986-6e946b2a86bd"/>Gradução.</h3>
+ - Gestão da Tecnologia da Informação - Universidade Paulista - UNIP. <br>
+ - Análise em Desenvolvimento de Sistemas - Faculdade Única (em andamento).
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+ <h3><img align="left" width="30px" src="https://github.com/KelGs/KelGs/assets/113996184/cf663632-1ab6-4c3d-a037-2261f5e3de58"/>Pós-Gradução.</h3>
+ - Desenvolvimento WEB Full Stack - Faculdade Anhanguera. <br>
+ - Desenvolvimento Front End - Faculdade Anhanguera (em andamento).
+ </div>
+</div>
 
-#### IDE:
-
-![VScode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-
-&nbsp;
-
-## Contatos:
-
+ ## Contatos:
+ 
 <div> 
-<a href="https://www.instagram.com/_kelvyng/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href = "mailto:kelvyng.dev@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/kelgs/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://www.instagram.com/_kelvyng/" target="_blank"><img height="40px" src="https://github.com/KelGs/KelGs/assets/113996184/0a24ceb0-6e57-4220-837e-86352cd4c21e" target="_blank"></a>
+ &ensp;&ensp;
+<a href = "mailto:kelvyng.dev@gmail.com" target="_blank"> <img height="35px" src="https://github.com/KelGs/KelGs/assets/113996184/8f3a3955-1781-43c7-81be-84e4a8712335"></a>
+  &ensp;&ensp;
+<a href="https://www.linkedin.com/in/kelgs/" target="_blank"><img height="40px" src="https://github.com/KelGs/KelGs/assets/113996184/2491ae50-a78d-465e-97e9-fc396fd89533"  target="_blank"></a> 
 </div>
