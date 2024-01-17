@@ -10,7 +10,7 @@
  </p>
 
 <div align="left">
- <h1> <img width="40px" src="https://github.com/KelGs/KelGs/assets/113996184/75e0f50f-a273-48b4-b815-d3f2991e6e78"/>&nbsp; Minhas habilidades: </h1>
+ <h1><img width="40px" src="https://github.com/KelGs/KelGs/assets/113996184/75e0f50f-a273-48b4-b815-d3f2991e6e78"/>&nbsp;Minhas habilidades:</h1>
 
  <h3>Tecnologias:</h3>
 
@@ -22,20 +22,20 @@
  <h3>Em aprendizagem:</h3>
  <img width="40px" src="https://github.com/KelGs/KelGs/assets/113996184/f4aac766-649e-4a72-94c6-cbf29675198d" />
 
- <h3>Ferranentas:</h3>
+ <h3>Ferramentas:</h3>
  <img width="40px" src="https://github.com/KelGs/KelGs/assets/113996184/34553f63-a2a4-44c0-85b0-9d8b433c5a9c" />&nbsp;&nbsp;&nbsp;&nbsp;
  <img width="40px" src="https://github.com/KelGs/KelGs/assets/113996184/c1538bc2-ab48-4735-9504-9da6bfa00b94" />&nbsp;&nbsp;&nbsp;&nbsp;
  <img width="40px" src="https://github.com/KelGs/KelGs/assets/113996184/7ccda340-bc2a-4f0c-bcfc-4bbaad723669" />&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <br>
  <div>
- <h2> <img align="left" width="40px" src="https://github.com/KelGs/KelGs/assets/113996184/d8b899cd-e3aa-4ece-a569-d78ab5d22ad3" /> Formação:</h2> 
+ <h2><img align="left" width="40px" src="https://github.com/KelGs/KelGs/assets/113996184/d8b899cd-e3aa-4ece-a569-d78ab5d22ad3"/>&nbsp;Formação:</h2> 
 
- <h3><img align="left" width="30px" src="https://github.com/KelGs/KelGs/assets/113996184/81e51262-033b-40a9-a986-6e946b2a86bd"/>Gradução.</h3>
+ <h3><img align="left" width="30px" src="https://github.com/KelGs/KelGs/assets/113996184/81e51262-033b-40a9-a986-6e946b2a86bd"/>&nbsp;Graduação.</h3>
  - Gestão da Tecnologia da Informação - Universidade Paulista - UNIP. <br>
  - Análise em Desenvolvimento de Sistemas - Faculdade Única (em andamento).
 
- <h3><img align="left" width="30px" src="https://github.com/KelGs/KelGs/assets/113996184/cf663632-1ab6-4c3d-a037-2261f5e3de58"/>Pós-Gradução.</h3>
+ <h3><img align="left" width="30px" src="https://github.com/KelGs/KelGs/assets/113996184/cf663632-1ab6-4c3d-a037-2261f5e3de58"/>&nbsp;Pós-Graduação.</h3>
  - Desenvolvimento WEB Full Stack - Faculdade Anhanguera. <br>
  - Desenvolvimento Front End - Faculdade Anhanguera (em andamento).
  </div>
