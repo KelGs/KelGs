@@ -1,9 +1,9 @@
-# 🧙‍♂️ Kelvyn Gonçalves - Front-End Wizard
+# 🧙‍♂️ Kelvyn Gonçalves - Desenvolvedor Front-End
 <img align="right" width="100px" src="https://github.com/KelGs/KelGs/assets/113996184/60d42ad5-9442-409f-b543-bbdc844503f4" />
 
 Entusiasta apaixonado pela tecnologia, especialmente no âmbito do desenvolvimento front-end.
 
-Programador JavaScript (React), aficionado por criar experiências web interativas e acessiveis.
+Programador JavaScript (React), aficionado por criar experiências web interativas e com acessibilidade.
 
 ### 🔮 Portfólio: [kelgs.github.io](https://kelgs.github.io)
 
@@ -33,29 +33,3 @@ _Faculdade Anhanguera - Set. 2023 - Jun. 2024_
 ## <img width="25px" src="https://github.com/KelGs/KelGs/assets/113996184/5d085b19-9daf-4492-990f-61bee3e46663"/> Contato
 - **LinkedIn:** [linkedin.com/in/kelgs/](https://www.linkedin.com/in/kelgs/)
 - **Email:** kelvyng.dev@gmail.com
-
-## 🔮 Exemplos de Encantamentos
-
-```javascript
-// Feitiço JavaScript para verificar qualificação do Mago
-function checkQualification(mago) {
-  if (mago.skills.includes('HTML') && 
-      mago.skills.includes('CSS') && 
-      mago.skills.includes('JavaScript') && 
-      mago.yearsExperience >= 2) {
-    return `${mago.name} é um mago qualificado! 🌟`;
-  } else {
-    return `${mago.name} precisa de mais treinamento! 🧙‍♂️`;
-  }
-}
-
-// Dados do Mago
-const magoKelvyn = {
-  name: 'Kelvyn Gonçalves',
-  skills: ['HTML', 'CSS', 'JavaScript', 'React', 'SCSS'],
-  yearsExperience: 2
-};
-
-// Resultado do feitiço de verificação
-console.log(checkQualification(magoKelvyn));
-
