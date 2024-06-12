@@ -5,7 +5,7 @@ Entusiasta apaixonado pela tecnologia, especialmente no âmbito do desenvolvimen
 
 Programador JavaScript (React), aficionado por criar experiências web interativas e com acessibilidade.
 
-### 🔮 Portfólio: [kelgs.github.io](https://kelgs.github.io)
+### 🔮 Portfólio: <a href="https://kelgs.github.io/index.html" target="_blank">kelgs.github.io</a>
 
 ## <img width="25px" src="https://github.com/KelGs/KelGs/assets/113996184/f6f5810e-f25a-456c-ba25-10e10f79fa13"> Habilidades 
 - **Linguagens:** HTML, CSS (SCSS), JavaScript
