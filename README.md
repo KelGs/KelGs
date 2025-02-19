@@ -36,5 +36,5 @@
 ![Git](https://img.shields.io/badge/-Git-191e24?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-191e24?style=for-the-badge&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-191e24?style=for-the-badge&logo=Figma)
-![Docker](https://img.shields.io/badge/-Docker-191e24?style=for-the-badge&logo=docker&logoColor=2496ED)&nbsp;
-![XAMPP](https://img.shields.io/badge/-XAMPP-191e24?style=for-the-badge&logo=XAMPP&logoColor=FF4B4B)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-191e24?style=for-the-badge&logo=docker&logoColor=2496ED)
+![XAMPP](https://img.shields.io/badge/-XAMPP-191e24?style=for-the-badge&logo=XAMPP&logoColor=FF4B4B)
